@@ -1,0 +1,24 @@
+Demo\Demotemp : 3f3b3c4d48c3cc321a23e2fccf6bd2b7
+Demo\Hellotemp : 3f3b3c4d48c3cc321a23e2fccf6bd2b7
+--------------- Checksum Completed ---------------
+Demo\Demotemp : 3f3b3c4d48c3cc321a23e2fccf6bd2b7
+Demo\Hellotemp : 3f3b3c4d48c3cc321a23e2fccf6bd2b7
+--------------- Checksum Completed ---------------
+--------------- Checksum Completed ---------------
+Demo\Demo.txt : 3f3b3c4d48c3cc321a23e2fccf6bd2b7
+Demo\Hello.txt : 3f3b3c4d48c3cc321a23e2fccf6bd2b7
+--------------- Checksum Completed ---------------
+--------------- Checksum Completed ---------------
+Demo\Demo.txt : 3f3b3c4d48c3cc321a23e2fccf6bd2b7
+Demo\Hello.txt : 3f3b3c4d48c3cc321a23e2fccf6bd2b7
+--------------- Checksum Completed ---------------
+Duplicate file : Demo\Hello.txt
+Duplicate file : Demo\Hello.txt
+Duplicate file : Demo\Hello.txt
+Duplicate file : Demo\Hello.txt
+Duplicate file : Demo\Hello.txt
+Deleted duplicate file : Demo\Hello.txt
+Exception occurred in 4.py file
+Exception occurred in 4.py file
+Deleted duplicate file : Demo\Hello.txt
+Exception occurred in 4.py file
